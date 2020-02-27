@@ -27,7 +27,7 @@
     "props": { 
       "verticalAlign": "midle",
       "preventVerticalStretch": true
-    },
+    }
   },
   "product-price": {
     "props":{
