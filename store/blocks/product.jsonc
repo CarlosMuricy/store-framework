@@ -15,7 +15,7 @@
   },
   "flex-layout.col#left": {
     "props": { 
-      "horizontalAlign": "center",
+      "verticalAlign": "midle",
       "preventVerticalStretch": true
     },
     "children": [
