@@ -15,7 +15,7 @@
           "login"
       ],
       "props:":{
-          "inverter": true,
+          "inverted": true,
           "sticky": true,
           "fullWidth": false
       }
