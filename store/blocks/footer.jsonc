@@ -41,10 +41,9 @@
     "social-networks": {
         "props":{
             "socialNetworks": [
-                "Facebook",
-                "Instagram",
-                "Twitter"
-            ],
+                { "url": "https://facebook.com/foo", "name": "Facebook" },
+                { "url": "https://twitter.com/foo", "name": "Twitter" }
+              ],
             "showInColor": true
         }
     }
