@@ -12,7 +12,7 @@
     ]
    },
    "header-layout.desktop": {
-       "chldren": [
+       "children": [
         "header-row#notification",
         "header-row#main"
        ]
