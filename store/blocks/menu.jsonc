@@ -21,7 +21,7 @@
           "menu-item#washers"
       ],
       "props":{
-        "orientation": "horizontal"
+        "orientation": "vertical"
     }
   },
   "vtex.menu@2.x:submenu#small":{
@@ -49,6 +49,9 @@
         "menu-item#cameras",
         "menu-item#laptops",
         "menu-item#tvs"
-     ]
+     ],
+   "props":{
+    "orientation": "vertical"
    }
+  }
 }
