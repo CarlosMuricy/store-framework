@@ -52,6 +52,12 @@
       "product-quantity"
     ]
   },
+  "sku-selector": {
+    "props":{
+      "showValueForVariation": "ShowValueForVariation",
+      "showVariationsErrorMessage": true
+    }
+  },
   "product-price": {
     "props":{
       "showSavings": true,
