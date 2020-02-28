@@ -25,7 +25,7 @@
       "product-identifier.product",
       "flex-layout.row#qty-sku",
       "product-price",
-      "shipping-simulator"
+      "shipping-simulator",
       "buy-button"
     ],
     "props": { 
