@@ -31,7 +31,7 @@
           "search-bar",
           "minicart",
           "login"
-      ],
+      ],    
       "props:":{
           "inverted": true,
           "sticky": true,
